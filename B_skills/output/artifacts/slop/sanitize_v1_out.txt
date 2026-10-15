@@ -1,0 +1,3 @@
+Clean. No invisible characters or typographic substitutions found.
+
+Wrote script_v1_sanitized.md

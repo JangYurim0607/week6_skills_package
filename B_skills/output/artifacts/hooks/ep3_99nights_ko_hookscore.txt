@@ -1,0 +1,58 @@
+
+  99번의 밤 동안 모닥불을 지키려면 뭘 챙겨야 할까요?
+  ------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     42  ########
+    BREVITY       30  ######
+    VERDICT       27  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  99번의 밤을 버텨야 숲에서 구조돼요.
+  ---------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  낮에 너무 멀리 가면 밤에 숲에 갇혀요.
+  ----------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  낮에 모은 것으로 밤을 버티는 게임이에요.
+  -----------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  숲에 나가기 전에 나무부터 챙겨야 하는 이유가 있어요.
+  ------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  winner: 99번의 밤 동안 모닥불을 지키려면 뭘 챙겨야 할까요?  (27, WEAK)
+

@@ -1,0 +1,83 @@
+{
+  "picks_cluster_rule": [
+    "Brookhaven RP",
+    "Adopt Me!",
+    "99 Nights in the Forest"
+  ],
+  "plain_top_by_score_among_noted": [
+    "Brookhaven RP",
+    "Adopt Me!",
+    "Steal a Brainrot"
+  ],
+  "weightings": {
+    "동접60:방문40(기본)": {
+      "scores": {
+        "Brookhaven RP": 99.0,
+        "Adopt Me!": 84.7,
+        "99 Nights in the Forest": 77.1,
+        "Steal a Brainrot": 78.6
+      },
+      "order": [
+        "Brookhaven RP",
+        "Adopt Me!",
+        "Steal a Brainrot",
+        "99 Nights in the Forest"
+      ],
+      "picks_with_cluster_rule": [
+        "Brookhaven RP",
+        "Adopt Me!",
+        "99 Nights in the Forest"
+      ]
+    },
+    "동접만": {
+      "scores": {
+        "Brookhaven RP": 99.8,
+        "Adopt Me!": 88.9,
+        "99 Nights in the Forest": 85.6,
+        "Steal a Brainrot": 69.4
+      },
+      "order": [
+        "Brookhaven RP",
+        "Adopt Me!",
+        "99 Nights in the Forest",
+        "Steal a Brainrot"
+      ],
+      "picks_with_cluster_rule": null
+    },
+    "방문만": {
+      "scores": {
+        "Brookhaven RP": 97.7,
+        "Adopt Me!": 78.5,
+        "99 Nights in the Forest": 64.3,
+        "Steal a Brainrot": 92.4
+      },
+      "order": [
+        "Brookhaven RP",
+        "Steal a Brainrot",
+        "Adopt Me!",
+        "99 Nights in the Forest"
+      ],
+      "picks_with_cluster_rule": null
+    },
+    "50:50": {
+      "scores": {
+        "Brookhaven RP": 98.8,
+        "Adopt Me!": 83.7,
+        "99 Nights in the Forest": 74.9,
+        "Steal a Brainrot": 80.9
+      },
+      "order": [
+        "Brookhaven RP",
+        "Adopt Me!",
+        "Steal a Brainrot",
+        "99 Nights in the Forest"
+      ],
+      "picks_with_cluster_rule": [
+        "Brookhaven RP",
+        "Adopt Me!",
+        "99 Nights in the Forest"
+      ]
+    }
+  },
+  "note": "동접만/방문만 가중치에서는 점수 순서만 비교했다. 군집 규칙은 기본 가중치에서만 적용."
+}

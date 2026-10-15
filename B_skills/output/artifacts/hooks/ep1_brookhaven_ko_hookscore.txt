@@ -1,0 +1,58 @@
+
+  게임에는 목표가 있어야 한다고요? Brookhaven RP는 목표가 없는데 동접 1위예요.
+  --------------------------------------------------
+    SPECIFICITY   46  #########
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       45  #########
+    VERDICT       28  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  목표가 하나도 없는 게임에 왜 사람이 40만 명 넘게 모일까요?
+  -----------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     42  ########
+    BREVITY       30  ######
+    VERDICT       27  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  평소 동접이 40만에서 50만인 게임에 퀘스트도 레벨도 없어요.
+  -----------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       34  ######
+    VERDICT       26  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  집을 잡고 차를 타고 장면에 합류하는 데 얼마나 걸리는지 재 볼게요.
+  --------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  직업 아이콘이 80개가 넘는데 월급은 한 푼도 없어요.
+  ------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  winner: 게임에는 목표가 있어야 한다고요? Brookhaven RP는 목표가 없는데 동접 1위예요.  (28, WEAK)
+

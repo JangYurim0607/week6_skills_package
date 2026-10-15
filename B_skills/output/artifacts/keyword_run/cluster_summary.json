@@ -1,0 +1,78 @@
+[
+  {
+    "family": "grind_collect",
+    "label": "수집·육성·시뮬레이터",
+    "n": 7,
+    "ccu_total": 938000.0,
+    "n_missing_ccu": 1,
+    "avg_score": 69.0,
+    "games": [
+      "Adopt Me!",
+      "Steal a Brainrot",
+      "Grow a Garden",
+      "Fish It!",
+      "Sell Lemons",
+      "Kick a Lucky Block",
+      "Pet Simulator 99"
+    ]
+  },
+  {
+    "family": "social_rp",
+    "label": "역할놀이·사회추리",
+    "n": 2,
+    "ccu_total": 696000.0,
+    "n_missing_ccu": 0,
+    "avg_score": 85.0,
+    "games": [
+      "Brookhaven RP",
+      "Murder Mystery 2"
+    ]
+  },
+  {
+    "family": "combat",
+    "label": "전투·액션·슈터",
+    "n": 3,
+    "ccu_total": 618000.0,
+    "n_missing_ccu": 0,
+    "avg_score": 74.3,
+    "games": [
+      "Blox Fruits",
+      "Jujutsu Shenanigans",
+      "RIVALS"
+    ]
+  },
+  {
+    "family": "obby",
+    "label": "장애물(오비)",
+    "n": 1,
+    "ccu_total": 307000.0,
+    "n_missing_ccu": 0,
+    "avg_score": 87.5,
+    "games": [
+      "+1 Speed Keyboard Escape (Candy & Chocolate)"
+    ]
+  },
+  {
+    "family": "horror_survival",
+    "label": "생존·공포",
+    "n": 1,
+    "ccu_total": 285000.0,
+    "n_missing_ccu": 0,
+    "avg_score": 77.1,
+    "games": [
+      "99 Nights in the Forest"
+    ]
+  },
+  {
+    "family": "fashion_avatar",
+    "label": "패션·아바타",
+    "n": 2,
+    "ccu_total": 155000.0,
+    "n_missing_ccu": 0,
+    "avg_score": 48.8,
+    "games": [
+      "Catalog Avatar Creator",
+      "Dress To Impress"
+    ]
+  }
+]

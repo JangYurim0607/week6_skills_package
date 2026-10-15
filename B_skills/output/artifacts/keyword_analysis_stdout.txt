@@ -1,4 +1,7 @@
-게임 16개, 키워드 후보 128개 -> output/artifacts
-  pick: Brookhaven RP (social_rp, 99.0)
-  pick: +1 Speed Keyboard Escape (Candy & Chocolate) (obby, 87.5)
-  pick: Adopt Me! (grind_collect, 84.7)
+게임 16개 (조사 노트 있음 4개), 키워드 후보 59개 -> ../output/artifacts/keyword_run
+선정(군집당 1개, 노트 있는 게임만): Brookhaven RP, Adopt Me!, 99 Nights in the Forest
+노트 있는 게임 점수순: Brookhaven RP 99.0, Adopt Me! 84.7, Steal a Brainrot 78.6, 99 Nights in the Forest 77.1
+  [동접60:방문40(기본)] 순서: Brookhaven RP > Adopt Me! > Steal a Brainrot > 99 Nights in the Forest | 군집규칙 선정: ['Brookhaven RP', 'Adopt Me!', '99 Nights in the Forest']
+  [동접만] 순서: Brookhaven RP > Adopt Me! > 99 Nights in the Forest > Steal a Brainrot | 군집규칙 선정: None
+  [방문만] 순서: Brookhaven RP > Steal a Brainrot > Adopt Me! > 99 Nights in the Forest | 군집규칙 선정: None
+  [50:50] 순서: Brookhaven RP > Adopt Me! > Steal a Brainrot > 99 Nights in the Forest | 군집규칙 선정: ['Brookhaven RP', 'Adopt Me!', '99 Nights in the Forest']

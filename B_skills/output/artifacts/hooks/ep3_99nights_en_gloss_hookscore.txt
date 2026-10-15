@@ -1,0 +1,58 @@
+
+  What should you pack to keep the campfire alive for 99 nights?
+  --------------------------------------------------------------
+    SPECIFICITY   56  ###########
+    ADDRESS       76  ###############
+    STAKES        36  #######
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       54  WEAK
+    formula      The Question  (2 patterns matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  There is a reason you should grab wood before you leave for the forest.
+  -----------------------------------------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       96  ###################
+    STAKES        48  #########
+    CURIOSITY     58  ###########
+    BREVITY      100  ####################
+    VERDICT       54  WEAK
+    formula      The Warning  (1 pattern matched)
+    weakest      SPECIFICITY - swap one adjective for a number, a name or a date
+
+  You have to survive 99 nights to be rescued from the forest.
+  ------------------------------------------------------------
+    SPECIFICITY   56  ###########
+    ADDRESS       76  ###############
+    STAKES        36  #######
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       45  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  If you go too far in the day, you get trapped in the forest at night.
+  ---------------------------------------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       96  ###################
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       42  WEAK
+    formula      The Direct Address  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  It is a game where what you gather by day keeps you alive at night.
+  -------------------------------------------------------------------
+    SPECIFICITY   18  ###
+    ADDRESS       66  #############
+    STAKES        22  ####
+    CURIOSITY     41  ########
+    BREVITY      100  ####################
+    VERDICT       37  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      SPECIFICITY - swap one adjective for a number, a name or a date
+
+  winner: What should you pack to keep the campfire alive for 99 nights?  (54, WEAK)
+

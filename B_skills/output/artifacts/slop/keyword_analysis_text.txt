@@ -1,0 +1,139 @@
+로블록스 숏츠 키워드 분석 리포트로블록스 숏츠 키워드 분석 리포트
+유튜브 쇼츠·틱톡용 · 데이터 기준 RoWatcher 2026-06-10 스냅샷, 조사 노트 2026-10-15
+한 장 요약
+인기 로블록스 게임 16개의 장르, 동시 접속자, 누적 방문수를 비교하고, 조사 노트로 사실을 확인할 수 있는 게임 중에서 숏츠 3편을 만들 게임 3개를 골랐다. 게임마다 한국어·영어 키워드 후보와 검색 의도, 숏츠 앵글을 정리했다.
+가장 큰 한계 검색량, 조회수, 해시태그 사용량 데이터는 구하지 못했다. 이 리포트의 수요는 '지금 동시에 접속한 사람 수와 누적 방문수'로 본 대리 지표이고 검색 수요가 아니다. 키워드는 모두 후보이며 검증된 값이 아니다.
+선정한 3개
+1순위 · 역할놀이 (Roleplay)
+Brookhaven RP
+99.0
+수요 점수(0~100) · 동접 497,000 · 누적 방문 834억
+동접·누적 방문수 모두 16개 중 1위(동접 CSV 기준). 역할놀이 묶음 대표이고 노트에 집, 탈것, 직업 등 쓸 수 있는 사실이 많다.
+2순위 · 펫 교환 (Pet-trading)
+Adopt Me!
+84.7
+수요 점수(0~100) · 동접 324,000 · 누적 방문 438억
+조사 노트가 있는 게임 중 수집·육성 묶음 1위. 펫 합성 규칙처럼 한 컷으로 보여 줄 수 있는 '방법'형 주제가 있다.
+3순위 · 생존·공포 (Survival/Horror)
+99 Nights in the Forest
+77.1
+수요 점수(0~100) · 동접 285,000 · 누적 방문 272억
+생존·공포 묶음의 유일한 게임. 낮에 모으고 밤에 버티는 구조가 명확해서 정보형 숏츠로 풀기 쉽다.
+고른 방법
+조사 노트가 있어 게임 내용을 사실대로 쓸 수 있는 4개(Brookhaven RP, Adopt Me!, Steal a Brainrot, 99 Nights in the Forest)만 제작 후보로 둔다. 노트가 없는 게임은 점수가 높아도 대본을 쓸 수 없다. 예를 들어 +1 Speed Keyboard Escape(점수 87.5)는 16개 중 동접 3위인데 노트가 없어 뺐다.
+수요 점수(동접 60%, 누적 방문수 40%, 로그 눈금)가 높은 순으로 본다.
+같은 장르 묶음에서는 1개만 고른다. 그래서 점수 78.6인 Steal a Brainrot은 같은 묶음의 Adopt Me!에 밀리고, 점수 77.1인 99 Nights in the Forest가 들어갔다. 두 게임은 1.5점 차이라서 이 점수 식으로는 우열을 가를 수 없다. 묶음 규칙이 결정한 선택이고, Steal a Brainrot이 1순위 예비다.
+이 리포트에서 얻은 것
+장르 묶음 중 동접 합계는 수집·육성·시뮬레이터가 가장 크지만 게임 수가 7개라서 게임당 평균은 역할놀이·사회추리가 훨씬 높다(2쪽 차트).
+숫자가 비어 있는 게임이 많다. 동접이 없는 게임 1개, 누적 방문수가 없는 게임 7개라서 두 값을 모두 비교할 수 있는 게임은 8개뿐이다.
+점수 가중치를 바꾸면 3위와 4위 순서가 바뀐다(6쪽). 선정은 가중치에 민감한 부분이 있다.
+데이터 범위와 한계
+자료 | 내용 | 한계 |
+roblox_games.csv | RoWatcher 2026-06-10 스냅샷, 게임 16개의 장르, 동시 접속자(대략), 누적 방문수(십억). Grow a Garden의 누적 방문수는 ExitLag 글 값. | 동시 접속자는 한 시점의 근삿값이다. 동접 없음 1개, 누적 방문수 없음 7개. |
+game_notes.md | 게임 4개(Brookhaven RP, Adopt Me!, Steal a Brainrot, 99 Nights in the Forest)의 출처 있는 조사 노트(2026-10-15 정리). 출처는 RoWatcher, BlueStacks, Wikipedia, PlayNews, ExitLag 글. | 나머지 12개 게임은 내용 조사가 없다. 출처마다 수치 시점이 다르다. |
+없는 데이터 | 검색량, 유튜브·틱톡 조회수, 해시태그 사용량, 한국어 공식 명칭과 별칭. | 접근 가능한 신뢰 출처를 찾지 못했다. 이 값들은 지어내지 않았다. 한국어 키워드는 영문 게임명에 일반 수식어를 붙인 후보다. |
+수치가 서로 어긋나는 곳
+같은 게임도 출처와 시점에 따라 값이 다르다. Brookhaven RP 누적 방문수는 CSV(2026-06-10) 83.4B, 노트(RoWatcher 글) 80억 4천만 이상이다. Adopt Me!는 CSV 43.8B, 노트(위키백과, 2025년 11월 기준) 408억 이상이다.
+Steal a Brainrot 노트에는 2025년 10월에 동시 접속 2,540만 명을 넘었다는 가이드 기준 보도가 있다. CSV의 2026-06-10 값은 151,000이다. 이 차이는 설명하지 못했다. 점수는 CSV 값만으로 계산했다.
+수요 점수가 뜻하는 것과 아닌 것
+동시 접속자(60%)와 누적 방문수(40%)를 각각 로그 눈금으로 0~100에 맞춰 섞은 값이다. 동접은 1만~50만, 방문수는 약 32억~900억을 0~100으로 잡았다. 이 범위와 60:40 가중치는 임의로 정했다.
+한쪽 값만 있으면 있는 값만 쓴다. 그래서 Grow a Garden(72.2)은 누적 방문수만으로 계산한 값이라 다른 게임과 같은 기준이 아니다.
+플레이 인구가 많다고 그 게임의 팁 영상을 검색하는 사람이 많다는 보장은 없다. 점수는 검색량을 구하기 전에 쓰는 임시 순서표다.
+장르 묶음별 수요 비교
+막대는 묶음 안 게임의 동접 합계다. 수집·육성·시뮬레이터가 합계 938K로 가장 크지만 게임 7개의 합이고, 동접 수치가 없는 1개(Grow a Garden)는 빠져 있다. 게임당 평균(마름모)은 역할놀이·사회추리이 348K로 가장 높다. 합계는 묶음에 든 게임 수에 좌우된다.
+게임별 수요 표
+순위 | 게임 | 장르 | 묶음 | 동시 접속자 | 누적 방문(십억) | 점수 | 노트 |
+1 | Brookhaven RP ★ | 역할놀이 | 역할놀이·사회추리 | 497,000 | 83.4 | 99.0 | 있음 |
+2 | Adopt Me! ★ | 펫 교환 | 수집·육성·시뮬레이터 | 324,000 | 43.8 | 84.7 | 있음 |
+3 | +1 Speed Keyboard Escape | 빠른 순환 오비 | 장애물(오비) | 307,000 | 수치 없음 | 87.5* | 없음 |
+4 | 99 Nights in the Forest ★ | 생존·공포 | 생존·공포 | 285,000 | 27.2 | 77.1 | 있음 |
+5 | RIVALS | 경쟁 슈터 | 전투·액션·슈터 | 222,000 | 15.6 | 66.6 | 없음 |
+6 | Blox Fruits | 애니 노가다 RPG | 전투·액션·슈터 | 218,000 | 62.0 | 82.8 | 없음 |
+7 | Murder Mystery 2 | 사회추리 | 역할놀이·사회추리 | 199,000 | 26.2 | 71.1 | 없음 |
+8 | Jujutsu Shenanigans | 애니 액션 전투 | 전투·액션·슈터 | 178,000 | 수치 없음 | 73.6* | 없음 |
+9 | Steal a Brainrot | 밈·훔치기 | 수집·육성·시뮬레이터 | 151,000 | 69.8 | 78.6 | 있음 |
+10 | Fish It! | 낚시 시뮬레이터 | 수집·육성·시뮬레이터 | 143,000 | 수치 없음 | 68.0* | 없음 |
+11 | Sell Lemons | 방치형·타이쿤 | 수집·육성·시뮬레이터 | 135,000 | 수치 없음 | 66.5* | 없음 |
+12 | Kick a Lucky Block | RNG 클리커 | 수집·육성·시뮬레이터 | 107,000 | 수치 없음 | 60.6* | 없음 |
+13 | Dress To Impress | 패션 경쟁 | 패션·아바타 | 79,000 | 10.3 | 45.8 | 없음 |
+14 | Pet Simulator 99 | 시뮬레이터 | 수집·육성·시뮬레이터 | 78,000 | 수치 없음 | 52.5* | 없음 |
+15 | Catalog Avatar Creator | 아바타 샌드박스 | 패션·아바타 | 76,000 | 수치 없음 | 51.8* | 없음 |
+16 | Grow a Garden | 시뮬레이터 | 수집·육성·시뮬레이터 | 수치 없음 | 35.5 | 72.2* | 없음 |
+★ 선정한 3개. *는 동접 또는 누적 방문수가 없어 한쪽 값만으로 계산한 점수라 다른 행과 같은 기준이 아니다. 출처: RoWatcher 2026-06-10 스냅샷(Grow a Garden 누적 방문수는 ExitLag). 게임 이름 +1 Speed Keyboard Escape (Candy & Chocolate)는 줄여 적었다.
+동접과 누적 방문수
+두 축 모두 로그 눈금이다. 오른쪽 위에 있을수록 지금 접속자도 많고 누적 방문도 많다. 빨간 점이 선정한 3개다. Steal a Brainrot(파랑)은 누적 방문수에 비해 동접이 낮은 쪽이다.
+게임별 키워드 후보
+모두 후보입니다. 검색량으로 검증한 값이 아니다. 한국어 후보는 영문 게임명에 일반 수식어를 붙였고(공식 한국어 명칭을 찾지 못함), 조사 노트가 있는 게임은 노트에 있는 내용만 앵글로 삼았다. 의도 분류는 키워드 리서치 기준의 4가지(정보형, 비교·탐색형, 거래형, 내비형)에 숏츠용 '오락형'을 더했고, 실제 검색 결과로 검증한 분류가 아니다.
+조사 노트가 있는 4개 게임 (내용 기반 후보 23개)
+한국어 후보 | 영어 후보 | 의도 | 숏츠 앵글 | 노트 근거 |
+Brookhaven RP ★ 선정 |
+Brookhaven RP 시작 방법 | brookhaven rp how to start | 정보형 | 집 잡고 차 타고 합류까지 한 판 따라가기 | 시작이 쉽다(약 1분) |
+Brookhaven RP 집 종류 | brookhaven rp houses | 정보형 | 집·테마 장소 115개 이상 중 몇 곳 구경 | 집과 테마 장소 115개 이상 |
+Brookhaven RP 무료 탈것 | brookhaven rp free vehicles | 정보형 | 무료 탈것 24개 이상 중 타 보기 | 탈것 190개 이상, 24개 이상 무료 |
+Brookhaven RP 게임패스 가격 | brookhaven rp gamepass price | 거래형 | 유료 탈것 275~799 로벅스 정리 | 게임패스 275~799 로벅스 |
+Brookhaven RP 직업 보수 | brookhaven rp jobs pay | 정보형 | 직업 아이콘은 장식, 보수 없음 확인 | 직업 아이콘 80개 이상, 보수 없음 |
+Brookhaven RP 업데이트 | brookhaven rp update | 내비형 | 금요일 주 단위 업데이트 확인 | 업데이트는 보통 금요일 주 단위 |
+Brookhaven RP 안전 | is brookhaven rp safe | 정보형 | 채팅 기반 안전 우려 소개(민감, 제작 보류) | Common Sense 등급 8+ |
+Adopt Me! ★ 선정 |
+Adopt Me 네온 펫 만들기 | adopt me how to make neon pets | 정보형 | 다 자란 같은 종류 펫 4마리 합치기 | 펫 4마리 합치면 네온 |
+Adopt Me 메가 네온 | adopt me mega neon | 정보형 | 네온 4마리를 합치면 메가 네온 | 네온 4마리 합치면 메가 네온 |
+Adopt Me 알 종류 펫 | adopt me eggs pets | 정보형 | 알마다 나오는 펫이 다르다 | 알 종류마다 나오는 펫이 다름 |
+Adopt Me 펫 희귀도 | adopt me pet rarity | 정보형 | 희귀도 5단계 소개 | 희귀도 5단계 |
+Adopt Me 교환 사기 | adopt me trading scam | 정보형 | 거래 면허와 사기 경고가 생긴 이유 | 2020년 거래 면허·사기 경고 |
+Adopt Me 로벅스 펫 | adopt me robux pets | 거래형 | 로벅스로만 파는 펫이 있다 | 로벅스로만 파는 펫도 있음 |
+99 Nights in the Forest ★ 선정 |
+99 Nights in the Forest 공략 | 99 nights in the forest guide | 정보형 | 낮에는 모으고 저녁엔 캠프로 돌아오는 루틴 | 낮 탐색, 저녁 캠프 복귀 |
+99 Nights 모닥불 연료 | 99 nights in the forest campfire fuel | 정보형 | 연료는 나무, 나가기 전 여분 챙기기 | 모닥불 연료는 나무 |
+99 Nights 클래스 | 99 nights in the forest classes | 비교·탐색형 | 클래스 4가지 비교 | 클래스 4가지 |
+99 Nights 솔로 vs 멀티 | 99 nights in the forest solo vs multiplayer | 비교·탐색형 | 멀티가 더 수월한 이유와 역할 분담 | 멀티가 더 수월, 역할 분담 |
+99 Nights 실종된 아이 | 99 nights in the forest missing children | 정보형 | 숲에 흩어진 아이 구하기 | 실종된 아이들을 구하는 것이 목표 |
+99 Nights 적 종류 | 99 nights in the forest enemies | 정보형 | 뒤로 갈수록 무리가 커지는 적 | 뒤로 갈수록 무리가 커지고 빨라짐 |
+Steal a Brainrot 예비 |
+Steal a Brainrot 기지 방어 | steal a brainrot base defense | 정보형 | 비싼 것은 뒤쪽, 싼 것은 앞쪽 미끼 | 방어와 미끼 배치 |
+Steal a Brainrot 리버스 시기 | steal a brainrot rebirth when | 정보형 | 첫 리버스 권장 시점(가이드 기준) | 첫 리버스 약 8~10시간 뒤 |
+Steal a Brainrot 희귀도 | steal a brainrot rarity tiers | 비교·탐색형 | 희귀도 단계 정리(가이드 수치 불일치 있음) | 희귀도 6단계 |
+Steal a Brainrot 훔치기 게이지 | steal a brainrot steal gauge | 정보형 | 슬롯에 닿으면 게이지가 차는 방식 | 훔치기 게이지 |
+노트가 없는 12개 게임 (템플릿 후보)
+내용 조사가 없어서 게임 내용을 가리키지 않는 3개 템플릿만 적용했다. 의도는 모두 같다: 초보 공략(정보형, 앵글: 초보가 막히는 구간 하나 해결), 업데이트(내비형, 앵글: 신규 업데이트 요약), 버그 모음(오락형, 앵글: 웃긴 장면 모음). 이 후보로 대본을 쓰려면 먼저 해당 게임을 조사해야 한다.
+게임 (장르 묶음) | 한국어 후보 | 영어 후보 |
++1 Speed Keyboard Escape (Candy & Chocolate)장애물(오비) | +1 Speed Keyboard Escape 초보 공략+1 Speed Keyboard Escape 업데이트+1 Speed Keyboard Escape 버그 모음 | roblox +1 speed keyboard escape beginner guideroblox +1 speed keyboard escape updateroblox +1 speed keyboard escape glitch |
+RIVALS전투·액션·슈터 | RIVALS 초보 공략RIVALS 업데이트RIVALS 버그 모음 | roblox rivals beginner guideroblox rivals updateroblox rivals glitch |
+Blox Fruits전투·액션·슈터 | Blox Fruits 초보 공략Blox Fruits 업데이트Blox Fruits 버그 모음 | roblox blox fruits beginner guideroblox blox fruits updateroblox blox fruits glitch |
+Murder Mystery 2역할놀이·사회추리 | Murder Mystery 2 초보 공략Murder Mystery 2 업데이트Murder Mystery 2 버그 모음 | roblox murder mystery 2 beginner guideroblox murder mystery 2 updateroblox murder mystery 2 glitch |
+Jujutsu Shenanigans전투·액션·슈터 | Jujutsu Shenanigans 초보 공략Jujutsu Shenanigans 업데이트Jujutsu Shenanigans 버그 모음 | roblox jujutsu shenanigans beginner guideroblox jujutsu shenanigans updateroblox jujutsu shenanigans glitch |
+Fish It!수집·육성·시뮬레이터 | Fish It! 초보 공략Fish It! 업데이트Fish It! 버그 모음 | roblox fish it! beginner guideroblox fish it! updateroblox fish it! glitch |
+Sell Lemons수집·육성·시뮬레이터 | Sell Lemons 초보 공략Sell Lemons 업데이트Sell Lemons 버그 모음 | roblox sell lemons beginner guideroblox sell lemons updateroblox sell lemons glitch |
+Kick a Lucky Block수집·육성·시뮬레이터 | Kick a Lucky Block 초보 공략Kick a Lucky Block 업데이트Kick a Lucky Block 버그 모음 | roblox kick a lucky block beginner guideroblox kick a lucky block updateroblox kick a lucky block glitch |
+Dress To Impress패션·아바타 | Dress To Impress 초보 공략Dress To Impress 업데이트Dress To Impress 버그 모음 | roblox dress to impress beginner guideroblox dress to impress updateroblox dress to impress glitch |
+Pet Simulator 99수집·육성·시뮬레이터 | Pet Simulator 99 초보 공략Pet Simulator 99 업데이트Pet Simulator 99 버그 모음 | roblox pet simulator 99 beginner guideroblox pet simulator 99 updateroblox pet simulator 99 glitch |
+Catalog Avatar Creator패션·아바타 | Catalog Avatar Creator 초보 공략Catalog Avatar Creator 업데이트Catalog Avatar Creator 버그 모음 | roblox catalog avatar creator beginner guideroblox catalog avatar creator updateroblox catalog avatar creator glitch |
+Grow a Garden수집·육성·시뮬레이터 | Grow a Garden 초보 공략Grow a Garden 업데이트Grow a Garden 버그 모음 | roblox grow a garden beginner guideroblox grow a garden updateroblox grow a garden glitch |
+후보 59개의 의도 분포
+정보형 29개 · 내비형 13개 · 오락형(스킬 분류 밖) 12개 · 비교·탐색형 3개 · 거래형 2개. 비교·탐색형과 거래형은 노트에서 '클래스 4가지', '솔로 vs 멀티', '게임패스 275~799 로벅스' 같은 내용이 있는 경우에만 붙였다.
+선정 3개의 주제 묶음 (피벗 → 묶음 → 숏츠 소재)
+Brookhaven RP → 시작·구성(시작 방법, 집 종류, 직업 보수) / 구매(무료 탈것, 게임패스 가격) / 운영(업데이트)
+Adopt Me! → 펫 키우기(알 종류, 희귀도, 네온, 메가 네온) / 거래(교환 사기, 거래 면허) / 구매(로벅스 펫)
+99 Nights in the Forest → 하루 루틴(공략, 모닥불 연료) / 선택(클래스, 솔로 vs 멀티) / 전투·구조(적 종류, 실종된 아이)
+선정 근거와 제작 우선순위
+순서 | 게임 | 점수 | 근거 | 먼저 겨냥할 키워드 후보 |
+1 | Brookhaven RP | 99.0 | 동접 1위. 직업 아이콘 80개 이상인데 보수가 없다는 사실이 첫 문장 훅으로 쓰기 좋다. | Brookhaven RP 직업 보수 / brookhaven rp jobs pay |
+2 | Adopt Me! | 84.7 | 노트 있는 게임 중 점수 2위. 합성 규칙이 '방법' 질문 형태라 Shorts 제목 검색과 맞는다. | Adopt Me 네온 펫 만들기 / adopt me how to make neon pets |
+3 | 99 Nights in the Forest | 77.1 | 생존·공포 묶음 대표. 낮·밤 루틴과 연료 질문이 한 편 안에 답까지 들어간다. | 99 Nights 모닥불 연료 / 99 nights in the forest campfire fuel |
+예비 | Steal a Brainrot | 78.6 | 점수는 99 Nights와 1.5점 차. 같은 묶음의 Adopt Me!에 밀렸다. 기지 방어, 리버스 등 쓸 사실이 많아 다음 후보 1순위. | Steal a Brainrot 기지 방어 / steal a brainrot base defense |
+제작 순서는 점수 순서(편 1 Brookhaven RP, 편 2 Adopt Me!, 편 3 99 Nights in the Forest)를 따랐다. 이 순서가 조회수를 보장하지는 않는다.
+가중치를 바꾸면 순서가 어떻게 되는가
+가중치 | 노트 있는 4개 게임의 점수 순서 | 묶음 규칙으로 뽑은 3개 |
+동접60:방문40(기본) | Brookhaven RP > Adopt Me! > Steal a Brainrot > 99 Nights in the Forest | Brookhaven RP, Adopt Me!, 99 Nights in the Forest |
+동접만 | Brookhaven RP > Adopt Me! > 99 Nights in the Forest > Steal a Brainrot | 해당 없음(순서만 비교) |
+방문만 | Brookhaven RP > Steal a Brainrot > Adopt Me! > 99 Nights in the Forest | 해당 없음(순서만 비교) |
+50:50 | Brookhaven RP > Adopt Me! > Steal a Brainrot > 99 Nights in the Forest | Brookhaven RP, Adopt Me!, 99 Nights in the Forest |
+동접만 보면 99 Nights가 Steal a Brainrot보다 앞서고, 누적 방문수만 보면 Steal a Brainrot이 Adopt Me!보다도 앞선다. 3개 선정에서 1순위 Brookhaven RP는 어느 가중치에서도 바뀌지 않는다.
+키워드 리서치 기준의 우선순위 식을 못 쓴 이유
+기준 식은 (검색량 × 예상 클릭률 × 사업 가치) ÷ (난이도 + 1)이다. 검색량과 난이도 값이 없어서 계산하지 못했고, 사업 가치도 이 채널에는 정의되지 않는다. 그래서 개별 키워드의 순위는 매기지 않고 게임 단위 순서만 냈다.
+다음 단계
+검색량 확인 위 후보를 Google 키워드 플래너, 네이버 검색광고 키워드 도구, YouTube 검색창 자동완성에 넣어 월 검색량과 연관어를 확인한다. 상대 추이는 Google 트렌드와 네이버 데이터랩, 틱톡은 TikTok Creative Center의 해시태그·키워드 지표를 본다(가능 여부와 범위는 계정·지역에 따라 다르다).
+후보 정리 검색량이 확인되면 이 리포트의 의도 분류와 앵글을 다시 맞춰 보고, 검색량 없는 후보를 정리한다. 우선순위 식도 그때 계산할 수 있다.
+수치 갱신 동접과 누적 방문수는 RoWatcher에서 다시 받는다. 스냅샷 시점에 따라 순위가 바뀐다.
+조사 노트 확대 노트가 없는 게임(예: 점수 87.5인 +1 Speed Keyboard Escape)을 조사해서 제작 후보를 넓힌다.
+한국어 명칭 조사 한국 커뮤니티에서 쓰는 게임 이름과 별칭을 찾아 키워드에 반영한다. 지금은 찾지 못했다.
+3편 업로드 후 측정 편마다 3초 이탈, 완주율, 저장, 공유, 댓글을 기록하고, 같은 내용에 훅만 바꾼 영상으로 비교한다. 이 값이 생기면 수요 점수와의 관계를 확인한다.

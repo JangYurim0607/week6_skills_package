@@ -1,0 +1,29 @@
+== demo_bad_ko slopcheck(English)
+No slop patterns found. 100.0/100 (A+).
+== demo_bad_ko ko_slopcheck
+슬롭 점수: 67 / 100 (낮을수록 좋음)
+문장 6개, 평균 25.3자, 45자 초과 1개
+이모지 0개, 느낌표 3개, [화면] 태그 0개
+  - [보고서투 시작] 에 대해 알아보
+  - [보고서투 시작] 알아보겠습니다
+  - [접속어 남발] 결론적으로
+  - [빈 형용사] 다양한
+  - [광고 멘트] 지금 바로
+  - [광고 멘트] 놓치지 마
+  - [광고 멘트] 확인해 보세요
+  - [호명] 여러분
+  - [호명] 여러분
+== demo_bad_en slopcheck(English)
+13 findings across 2 rules.
+
+  1:1  [W2] Slop phrases (major)
+        "In today's fast-paced"
+        -> Delete. If the sentence dies without the phrase, the sentence was the phrase.
+  1:204  [W2] Slop phrases (major)
+        "It's worth noting"
+        -> Delete. If the sentence dies without the phrase, the sentence was the phrase.
+== demo_bad_en ko_slopcheck
+슬롭 점수: 15 / 100 (낮을수록 좋음)
+문장 5개, 평균 57.6자, 45자 초과 3개
+이모지 0개, 느낌표 0개, [화면] 태그 0개
+  금지 패턴 적중 없음

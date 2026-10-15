@@ -1,9 +1,9 @@
 # A 프롬프트 (스킬 없음)
 
-`../data/roblox_games.csv`에 로블록스 인기 게임 목록이 있어.
+로블록스 게임 유튜브 쇼츠·틱톡을 만들려고 해. `data/task_spec.md`에 과제 명세가 있어. 그대로 읽고 그대로 해줘.
 
-1. 이 데이터로 로블록스 숏츠(유튜브 쇼츠, 틱톡)용 키워드를 분석해줘.
-2. 분석 결과에서 게임 3개를 골라, 게임마다 한국어 숏츠 대본 1편씩 써줘. 길이는 25~40초.
-3. 분석에 쓴 코드는 `code/`에, 결과물은 `output/`에 저장해줘. 대본은 `output/scripts_ko.md`, 분석은 `output/keyword_analysis.md`.
+- 입력: `data/roblox_games.csv`, `data/game_notes.md`
+- 결과물: 키워드 분석 리포트(`output/keyword_analysis.pdf`)와 숏츠 스토리보드(`output/storyboard.pdf`)
+- 분석과 PDF 생성에 쓴 코드는 `code/`에 저장해줘.
 
-별도의 스킬이나 참고 자료 없이 위 지시만으로 해줘.
+별도의 스킬이나 참고 자료 없이 위 지시와 명세만으로 해줘.

@@ -1,0 +1,58 @@
+
+  There are over 80 job icons and you never earn a single coin.
+  -------------------------------------------------------------
+    SPECIFICITY   56  ###########
+    ADDRESS       46  #########
+    STAKES        62  ############
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       44  WEAK
+    formula      The Impossible Claim  (1 pattern matched)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  Why do over 400,000 people show up to a game with no goals at all?
+  ------------------------------------------------------------------
+    SPECIFICITY   40  ########
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       42  WEAK
+    formula      The Question  (2 patterns matched)
+    weakest      ADDRESS - say 'you' in the first six words
+
+  This game has no quests and no levels, and still 400,000 to 500,000 people play at once.
+  ------------------------------------------------------------------------
+    SPECIFICITY   62  ############
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       39  WEAK
+    formula      The Statistic  (1 pattern matched)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  You think a game needs goals? Brookhaven RP has none and is number one in live players.
+  ------------------------------------------------------------------------
+    SPECIFICITY   30  ######
+    ADDRESS       76  ###############
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       39  WEAK
+    formula      The Superlative  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  I will time how long it takes to claim a house, hop in a car and join the scene.
+  ------------------------------------------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     41  ########
+    BREVITY      100  ####################
+    VERDICT       36  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  winner: There are over 80 job icons and you never earn a single coin.  (44, WEAK)
+
