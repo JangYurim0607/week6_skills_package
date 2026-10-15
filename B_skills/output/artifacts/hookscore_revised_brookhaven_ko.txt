@@ -1,0 +1,11 @@
+
+  동접 1위 로블록스 게임, 누적 방문수가 834억이에요.
+  -------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       34  ######
+    VERDICT       26  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way

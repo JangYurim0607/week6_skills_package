@@ -1,0 +1,12 @@
+{
+  "score": 100.0,
+  "grade": "A+",
+  "passed": true,
+  "gate_score": 90,
+  "gate_max_severity": "minor",
+  "blocking": [],
+  "word_count": 160,
+  "findings_per_1000_words": 0.0,
+  "findings": [],
+  "breakdown": []
+}

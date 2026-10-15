@@ -1,0 +1,58 @@
+
+  +1 Speed Keyboard Escape is number 3 on Roblox but its total visits are not in the source.
+  ------------------------------------------------------------------------
+    SPECIFICITY   96  ###################
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     41  ########
+    BREVITY      100  ####################
+    VERDICT       46  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      ADDRESS - say 'you' in the first six words
+
+  Why does a fast obby keep 307,000 players hooked?
+  -------------------------------------------------
+    SPECIFICITY   56  ###########
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       44  WEAK
+    formula      The Question  (2 patterns matched)
+    weakest      ADDRESS - say 'you' in the first six words
+
+  Roblox number 3 is an obby, so I tested how far I get.
+  ------------------------------------------------------
+    SPECIFICITY   63  ############
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     41  ########
+    BREVITY      100  ####################
+    VERDICT       42  WEAK
+    formula      I Tried It  (1 pattern matched)
+    weakest      ADDRESS - say 'you' in the first six words
+
+  There is an obby with over 300,000 players right now and it is named Keyboard Escape.
+  ------------------------------------------------------------------------
+    SPECIFICITY   68  #############
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       40  WEAK
+    formula      The Statistic  (1 pattern matched)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  307,000 players are running one obby right now, so I am running it too.
+  -----------------------------------------------------------------------
+    SPECIFICITY   57  ###########
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       39  WEAK
+    formula      The Statistic  (1 pattern matched)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  winner: +1 Speed Keyboard Escape is number 3 on Roblox but its total visits are not in the source.  (46, WEAK)
+

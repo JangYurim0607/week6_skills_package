@@ -1,0 +1,58 @@
+
+  +1 Speed Keyboard Escape는 로블록스 3위인데 누적 방문수는 출처에 없어요.
+  ----------------------------------------------------
+    SPECIFICITY   74  ##############
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     24  ####
+    BREVITY       67  #############
+    VERDICT       37  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  한 판이 빠른 오비가 왜 30만 명을 붙잡을까요?
+  ---------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     42  ########
+    BREVITY       30  ######
+    VERDICT       27  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  오비 하나에 30만 명이 동시에 달리고 있어요. 나도 달려 볼게요.
+  -------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       34  ######
+    VERDICT       26  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  동접 30만 명이 넘는 장애물 게임이 있는데, 이름이 키보드 탈출이에요.
+  ----------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  로블록스 인기 3위 오비, 나는 몇 단계까지 가나 해봤어요.
+  ---------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  winner: +1 Speed Keyboard Escape는 로블록스 3위인데 누적 방문수는 출처에 없어요.  (37, WEAK)
+

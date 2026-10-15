@@ -1,0 +1,58 @@
+
+  Adopt Me!를 아직도 하는 사람이 32만 명이에요. 왜일까요?
+  -------------------------------------
+    SPECIFICITY   40  ########
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     42  ########
+    BREVITY       45  #########
+    VERDICT       30  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  Adopt Me!는 누적 방문수가 438억인데 지금도 32만 명이 들어가 있어요.
+  ---------------------------------------------
+    SPECIFICITY   40  ########
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       56  ###########
+    VERDICT       29  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  438억 번 방문된 게임에서 펫 거래를 처음 해보면 어떻게 될까요?
+  -------------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     42  ########
+    BREVITY       30  ######
+    VERDICT       27  WEAK
+    formula      The Question  (1 pattern matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  펫 거래 게임이 로블록스 2위예요. 거래부터 해봤어요.
+  ------------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       34  ######
+    VERDICT       26  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  펫 하나 교환하는 데 얼마나 걸리는지 재 봤어요.
+  ---------------------------
+    SPECIFICITY   34  ######
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY       30  ######
+    VERDICT       25  WEAK
+    formula      Unclassified  (no formula matched - that is usually a summary, not a hook)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  winner: Adopt Me!를 아직도 하는 사람이 32만 명이에요. 왜일까요?  (30, WEAK)
+

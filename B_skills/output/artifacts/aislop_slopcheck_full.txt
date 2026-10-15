@@ -1,0 +1,10 @@
+1 finding across 1 rule.
+
+  52:1  [F7] Title Case heading (note)
+        "## 대본 2. +1 Speed Keyboard Escape (Candy & Chocolate)"
+        -> Use sentence case unless it is a proper name.
+
+Score arithmetic (start 100):
+  -1.0   F7 Title Case heading x1  [1 + 0x0.5 = 1.0]
+
+Score: 99.0/100 (A+).  Gate: 90 and no findings above minor.  PASS

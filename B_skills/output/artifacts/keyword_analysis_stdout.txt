@@ -1,0 +1,4 @@
+게임 16개, 키워드 후보 128개 -> output/artifacts
+  pick: Brookhaven RP (social_rp, 99.0)
+  pick: +1 Speed Keyboard Escape (Candy & Chocolate) (obby, 87.5)
+  pick: Adopt Me! (grind_collect, 84.7)

@@ -1,0 +1,58 @@
+
+  What happens if you do nothing for 30 seconds in a Brookhaven server?
+  ---------------------------------------------------------------------
+    SPECIFICITY   62  ############
+    ADDRESS       76  ###############
+    STAKES        36  #######
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       54  WEAK
+    formula      The Question  (2 patterns matched)
+    weakest      STAKES - name what it costs them to keep doing it the current way
+
+  If you skip this game you miss half of Roblox talk. It has 83.4 billion visits.
+  ------------------------------------------------------------------------
+    SPECIFICITY   52  ##########
+    ADDRESS       96  ###################
+    STAKES        36  #######
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       47  WEAK
+    formula      The Direct Address  (1 pattern matched)
+    weakest      CURIOSITY - cut the half of the sentence that answers itself
+
+  497,000 people are in Brookhaven RP right now, so I joined one server to see why.
+  ------------------------------------------------------------------------
+    SPECIFICITY   69  #############
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     41  ########
+    BREVITY      100  ####################
+    VERDICT       43  WEAK
+    formula      The Statistic  (1 pattern matched)
+    weakest      ADDRESS - say 'you' in the first six words
+
+  Why are 497,000 people inside the same Roblox game right now?
+  -------------------------------------------------------------
+    SPECIFICITY   46  #########
+    ADDRESS       26  #####
+    STAKES        36  #######
+    CURIOSITY     59  ###########
+    BREVITY      100  ####################
+    VERDICT       42  WEAK
+    formula      The Question  (2 patterns matched)
+    weakest      ADDRESS - say 'you' in the first six words
+
+  Roblox number one is not a shooter or survival game, it is roleplay.
+  --------------------------------------------------------------------
+    SPECIFICITY   18  ###
+    ADDRESS       26  #####
+    STAKES        22  ####
+    CURIOSITY     24  ####
+    BREVITY      100  ####################
+    VERDICT       30  WEAK
+    formula      The Superlative  (1 pattern matched)
+    weakest      SPECIFICITY - swap one adjective for a number, a name or a date
+
+  winner: What happens if you do nothing for 30 seconds in a Brookhaven server?  (54, WEAK)
+
